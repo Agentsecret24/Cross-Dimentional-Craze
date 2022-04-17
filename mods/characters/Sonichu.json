@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonichu Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonichu SingLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonichu SingDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonichu SingRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonichu SingUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonichu",
+	"position": [
+		-750,
+		-250
+	],
+	"healthicon": "schu",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		175,
+		0
+	],
+	"camera_position": [
+		650,
+		620
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "ColdSteel",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "BackAlley",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nothin Personnel",
+			"coldsteel",
+			[
+				135,
+				80,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Vs. Coldsteel",
+	"hiddenUntilUnlocked": false
+}

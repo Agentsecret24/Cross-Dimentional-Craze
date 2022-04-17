@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "Portal_Talk",
+			"speed": 0.05,
+			"portrait": "Portal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Evelyn falls out*"
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Facepalm",
+			"text": "Ow"
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Facepalm",
+			"text": "Again, really."
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Norm",
+			"text": "Reguardless, I'm glad to be out of there."
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Norm",
+			"text": "That purple guy was really annoying."
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "Shadow",
+			"text": "*Bushes Rustle*"
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Norm",
+			"text": "Who's there!"
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.03,
+			"portrait": "SonichuTalk",
+			"boxState": "angry",
+			"expression": "Aha",
+			"text": "HA!"
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AHHH!"
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.03,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "Point",
+			"text": "I challenge you!"
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.02,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "Mic",
+			"text": "To a music-off!"
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Norm",
+			"text": "Here we go again..."
+		}
+	]
+}

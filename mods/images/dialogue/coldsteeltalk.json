@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-420,
+		-460
+	],
+	"scale": 0.499999999999999,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ColdsteelTalk Point_Idle",
+			"anim": "Point",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ColdsteelTalk Shadow_Idle",
+			"anim": "Shadow",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ColdsteelTalk Pose_Idle",
+			"anim": "Pose",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ColdsteelTalk"
+}

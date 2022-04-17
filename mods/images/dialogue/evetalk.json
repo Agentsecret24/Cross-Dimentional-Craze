@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-400,
+		-550
+	],
+	"scale": 0.499999999999999,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EveTalk Ahh_Idle",
+			"anim": "Ahh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EveTalk FacePalm_Idle",
+			"anim": "Facepalm",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EveTalk Reel_Idle",
+			"anim": "Reel",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EveTalk LookDown_Idle",
+			"anim": "Look Down",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EveTalk Norm_Idle",
+			"anim": "Norm",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "EveTalk"
+}

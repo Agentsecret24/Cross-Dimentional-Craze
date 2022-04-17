@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "CS_Talk_Norm",
+			"speed": 0.03,
+			"portrait": "ColdsteelTalk",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU INSUFFERABLE LITTLE..."
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Ahh!!"
+		},
+		{
+			"sound": "Portal_Talk",
+			"speed": 0.05,
+			"portrait": "Portal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*evelyn falls through another portal*"
+		},
+		{
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk",
+			"boxState": "normal",
+			"expression": "Pose",
+			"text": "Damn..."
+		},
+		{
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk",
+			"boxState": "normal",
+			"expression": "Pose",
+			"text": "Whatever."
+		},
+		{
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk",
+			"boxState": "normal",
+			"expression": "Pose",
+			"text": "There's only one person in the world who knows about this little slipup."
+		}
+	]
+}

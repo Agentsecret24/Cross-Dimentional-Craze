@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.04,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "Mic",
+			"text": "Well that was fun."
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Norm",
+			"text": "Yeah,"
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Norm",
+			"text": "Yeah it was."
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.04,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "Aha",
+			"text": "I'm glad you enjoyed."
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "By the way."
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.04,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My name's Sonichu."
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.04,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But most people just call me Soni."
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Norm",
+			"text": "Evelyn, or Eve for short."
+		},
+		{
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk",
+			"boxState": "normal",
+			"expression": "Ahh",
+			"text": "OHNO!"
+		},
+		{
+			"sound": "Portal_Talk",
+			"speed": 0.05,
+			"portrait": "Portal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*evelyn falls through the portal*"
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "Point",
+			"text": "..."
+		},
+		{
+			"sound": "SC_Talk_Norm",
+			"speed": 0.04,
+			"portrait": "SonichuTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What..."
+		}
+	]
+}

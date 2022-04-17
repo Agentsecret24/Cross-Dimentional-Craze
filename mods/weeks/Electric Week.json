@@ -1,0 +1,32 @@
+{
+	"storyName": "Sonichu",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "Field",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Electric Type Menace",
+			"schu",
+			[
+				246,
+				193,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Vs. Coldsteel",
+	"hiddenUntilUnlocked": false
+}

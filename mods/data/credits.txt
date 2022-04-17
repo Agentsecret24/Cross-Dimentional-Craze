@@ -1,0 +1,43 @@
+Cross Dimentional Craze
+Agentsecret24::Agent::Musician::https://www.youtube.com/c/Agentsecret24::0x5621C0
+Agentsecret24::Agent::Animator::https://www.youtube.com/c/Agentsecret24::0x5621C0
+Agentsecret24::Agent::Coder::https://www.youtube.com/c/Agentsecret24::0x5621C0
+Agentsecret24::Agent::Reskinned Assets::https://www.youtube.com/c/Agentsecret24::0x5621C0
+Agentsecret24::Agent::Original Concept::https://www.youtube.com/c/Agentsecret24::0x5621C0
+DA Games::DAGames::Musical Inspiration::https://www.youtube.com/c/DiamondArmadaOnline::0x5621C0
+Catbrother Everything::Catbrother Everything::Psych Engine Tutorials::https://www.youtube.com/channel/UCXZsH9s0-g4AAlURUrcyEc::0x5621C0
+Villezen::Villezen::Psych Engine Tutorials::https://www.youtube.com/channel/UCo0J58hC0TqrM7G8uaQilxA::0x5621C0
+Barnaby Hill::Bhll::The after song dialogue code::https://www.youtube.com/channel/UCdAgKf0WKFpW43ck_DFeVdA::0x5621C0
+SEGA::null::Sonic Forces Avatar Creator::::0x5621C0
+Omatoic::null::The Guitar model used::https://www.blendswap.com/blend/26010::0x5621C0
+levigibson::null::The allyway model used::https://www.blendswap.com/blend/26527::0x5621C0
+My Mom::null::Supporting me each step of the way::::0x5621C0
+God::null::Blessing me with the ability to make this::::0x5621C0
+And You::null::For Playing::::0x5621C0
+
+Soundfonts Used
+Breath of Fire 2::null:: ::::0x5621C0
+Battletoads SNES::null:: ::::0x5621C0
+Earthbound::null:: ::::0x5621C0
+Live A Live::null:: ::::0x5621C0
+Clayfighter::null:: ::::0x5621C0
+ChronoTrigger::null:: ::::0x5621C0
+Super Robot Taisen EX::null:: ::::0x5621C0
+Super Mario RPG::null:: ::::0x5621C0
+F-Zero::null:: ::::0x5621C0
+Live A Live::null:: ::::0x5621C0
+Rockman And Forte::null:: ::::0x5621C0
+Power Rangers SNES::null:: ::::0x5621C0
+Battletoads and DD::null:: ::::0x5621C0
+Chrono Trigger::null:: ::::0x5621C0
+Super Mario World::null:: ::::0x5621C0
+Super Metroid::null:: ::::0x5621C0
+DK Country 2014::null:: ::::0x5621C0
+Super Metroid::null:: ::::0x5621C0
+FFVI::null:: ::::0x5621C0
+Earthbound::null:: ::::0x5621C0
+Super Mario Kart::null:: ::::0x5621C0
+Gemfire::null:: ::::0x5621C0
+Lufia BETA +::null:: ::::0x5621C0
+Pilotwings::null:: ::::0x5621C0
+Final Fantasy Master Quest::null:: ::::0x5621C0

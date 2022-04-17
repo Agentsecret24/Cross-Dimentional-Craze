@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SonichuTalk.png"><SubTexture name="SonichuTalk Aha_Intro0000" x="0" y="0" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0001" x="1504" y="0" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0002" x="3008" y="0" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0003" x="4512" y="0" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0004" x="6016" y="0" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0005" x="7520" y="0" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0006" x="0" y="1504" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0007" x="1504" y="1504" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0008" x="3008" y="1504" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Intro0009" x="4512" y="1504" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0000" x="6016" y="1504" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0001" x="7520" y="1504" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0002" x="0" y="3008" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0003" x="1504" y="3008" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0004" x="3008" y="3008" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0005" x="4512" y="3008" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0006" x="6016" y="3008" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0007" x="7520" y="3008" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0008" x="0" y="4512" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Intro0009" x="1504" y="4512" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0000" x="3008" y="4512" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0001" x="4512" y="4512" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0002" x="6016" y="4512" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0003" x="7520" y="4512" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0004" x="0" y="6016" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0005" x="1504" y="6016" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0006" x="3008" y="6016" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0007" x="4512" y="6016" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0008" x="6016" y="6016" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Intro0009" x="7520" y="6016" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0000" x="0" y="7520" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0001" x="1504" y="7520" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0002" x="3008" y="7520" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0003" x="4512" y="7520" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0004" x="6016" y="7520" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0005" x="7520" y="7520" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0006" x="0" y="9024" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0007" x="1504" y="9024" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0008" x="3008" y="9024" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Intro0009" x="4512" y="9024" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Aha_Idle0000" x="6016" y="9024" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Mic_Idle0000" x="7520" y="9024" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Point_Idle0000" x="0" y="10528" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+<SubTexture name="SonichuTalk Shadow_Idle0000" x="1504" y="10528" width="1504" height="1504" frameX="0" frameY="0" frameWidth="1504" frameHeight="1504" />
+</TextureAtlas>

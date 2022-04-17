@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-450,
+		-460
+	],
+	"scale": 0.499999999999999,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SonichuTalk Point_Idle",
+			"anim": "Point",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SonichuTalk Shadow_Idle",
+			"anim": "Shadow",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SonichuTalk Aha_Idle",
+			"anim": "Aha",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SonichuTalk Mic_Idle",
+			"anim": "Mic",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "SonichuTalk"
+}

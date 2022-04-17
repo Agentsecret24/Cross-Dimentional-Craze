@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "glamfred D"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "glamfred U"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "glamfred idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "glamfred R"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "glamfred L"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/glamfred",
+	"position": [
+		-740,
+		-640
+	],
+	"healthicon": "test",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		0
+	],
+	"camera_position": [
+		500,
+		720
+	],
+	"sing_duration": 4,
+	"scale": 0.400000000000005
+}

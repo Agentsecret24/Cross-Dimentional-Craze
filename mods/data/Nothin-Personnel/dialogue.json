@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "Portal",
+			"text": "*A Portal Opens In A Back Alley*",
+			"boxState": "normal",
+			"sound": "Portal_Talk",
+			"speed": 0.05,
+			"portrait": "portal"
+		},
+		{
+			"expression": "Facepalm",
+			"text": "Ugh...",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk"
+		},
+		{
+			"expression": "Facepalm",
+			"text": "My head",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk"
+		},
+		{
+			"expression": "Norm",
+			"text": "Where is everyone?",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "Evetalk"
+		},
+		{
+			"expression": "Look Down",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.065,
+			"portrait": "EveTalk"
+		},
+		{
+			"expression": "Look Down",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.135,
+			"portrait": "EveTalk"
+		},
+		{
+			"expression": "Look Down",
+			"text": ".....",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.275,
+			"portrait": "Evetalk"
+		},
+		{
+			"expression": "Reel",
+			"text": "WHY AM I A FURRY!!",
+			"boxState": "angry",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.045,
+			"portrait": "EveTalk"
+		},
+		{
+			"expression": "Shadow",
+			"text": "You there!",
+			"boxState": "normal",
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk"
+		},
+		{
+			"expression": "Shadow",
+			"text": "Girl with the Guitar.",
+			"boxState": "normal",
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk"
+		},
+		{
+			"expression": "Norm",
+			"text": "Hmm?",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk"
+		},
+		{
+			"expression": "Pose",
+			"text": "Yes you.",
+			"boxState": "normal",
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk"
+		},
+		{
+			"expression": "Point",
+			"text": "Duel me in musical combat so that I may show the world that I,",
+			"boxState": "normal",
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk"
+		},
+		{
+			"expression": "Pose",
+			"text": "COLDSTEEL THE HEDGEHOG",
+			"boxState": "angry",
+			"sound": "CS_Talk_Norm",
+			"speed": 0.13,
+			"portrait": "ColdsteelTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Am the best in all forms of combat!",
+			"boxState": "normal",
+			"sound": "CS_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "ColdsteelTalk"
+		},
+		{
+			"expression": "Norm",
+			"text": "i seriously dobt that",
+			"boxState": "normal",
+			"sound": "Eve_Talk_Norm",
+			"speed": 0.05,
+			"portrait": "EveTalk"
+		}
+	]
+}
